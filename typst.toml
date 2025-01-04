@@ -1,0 +1,16 @@
+[package]
+name = "nchu-master-thesis"
+version = "0.1.0"
+entrypoint = "lib.typ"
+authors = ["NeroBlackstone"]
+license = "GNU v3.0"
+description = "南昌航空大学硕士学位论文模板。Unofficial Nanchang Hangkong University Master's Degree Thesis Template."
+repository = "https://github.com/NeroBlackstone/NCHU-master-thesis-typst"
+keywords = ["thesis", "NCHU"]
+categories = ["thesis"]
+exclude = []
+
+[template]
+path = "template"
+entrypoint = "thesis.typ"
+thumbnail = "thumbnail.webp"
